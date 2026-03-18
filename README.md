@@ -56,7 +56,7 @@ Registry Artifacts Scan: <br/>
 <img src="https://i.imgur.com/X21cgOT.png" height="80%" width="80%" alt="Forensic Investigation Steps"/>
 <br />
 <br />
-Volatile Memory Scan: <br/>
+Volatile Memory Scan & Filesystem Artifacts: <br/>
 <img src="https://i.imgur.com/LKuYW6G.png" height="80%" width="80%" alt="Forensic Investigation Steps"/>
 <br />
 Forensic Methodology Disclosure: <br/>

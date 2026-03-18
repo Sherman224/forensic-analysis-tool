@@ -1,0 +1,5 @@
+{
+  "name": "Easttom Forensic Analyzer",
+  "description": "A forensic investigation tool based on System Forensics, Investigation, and Response standards.",
+  "requestFramePermissions": []
+}
